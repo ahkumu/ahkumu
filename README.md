@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahkumu
 - 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning C++, Python, and Javascript.
 - 💞️ I’m looking to collaborate on small side projects.
 - 📫 How to reach me onlyannicia@gmail.com
 
